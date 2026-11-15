@@ -18,10 +18,10 @@ neutral ground by construction — the same reason a card table doesn't deal.
 | project | role | where |
 |---|---|---|
 | [texas-42](https://github.com/jasonyandell/texas-42) | What is *true* — the mathematics (exact fibers, canonical support quotients, losslessness), proved before code is trusted; Lean formalization; **rob**, a certified exact imperfect-information solver | GitHub, public |
-| mk5 | How strong players are *made* — the perfect-information oracle, the training foundry, and the reigning pure-play champion **E[Q] n=10** | private, a year of history |
+| [mk5-main](https://github.com/jasonyandell/mk5-main) | How strong players are *made* — **Walt** and **Zeb**, the players that never see another seat's hand (Zeb is on npm as `@jasonyandell/zeb`); Silas, a query language for positions; the standing ladder; and the finished oracle era, whose champion **E[Q] n=10** Walt beat in October 2026 | GitHub, public |
 | [plunge](https://github.com/jasonyandell/plunge) | Where the game is *played* by humans — free mobile web 42, full family rules, honest AI ladder | GitHub, public · [play it](https://plunge.jasonyandell.workers.dev) |
 | the table (this repo) | Where they *meet* — seat protocol, match protocols, analysis, evidence | GitHub, public |
-| artifacts | Model weights and eval datasets | Hugging Face (planned) |
+| artifacts | Model weights, datasets and the ladder's records | [Hugging Face](https://huggingface.co/jasonyandell), public |
 
 Everything in the family is free as in beer (CC0).
 
